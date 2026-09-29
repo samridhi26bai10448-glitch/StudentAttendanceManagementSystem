@@ -1,0 +1,6 @@
+----- Attendance Record -----
+Total Classes: 50
+Classes Attended: 40
+Attendance Percentage: 80.00%
+Attendance Status: Good
+----------------------------
