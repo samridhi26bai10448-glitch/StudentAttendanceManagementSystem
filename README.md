@@ -56,7 +56,20 @@ The system handles:
 - Attended classes greater than total classes 
 - Invalid target attendance percentages 
 - Attendance percentages above 100% 
- 
+
+## Testing
+
+The system was tested using different valid and invalid inputs, including:
+
+- Valid attendance calculation
+- Invalid non-numeric input
+- Attended classes greater than total classes
+- Required classes calculation
+- Saving attendance records
+- Different attendance status categories
+
+All tested cases produced the expected results.
+
 ## Project Outcome 
  
 The system provides a simple way for students to calculate, analyze, and manage their attendance using a modular Python program.
